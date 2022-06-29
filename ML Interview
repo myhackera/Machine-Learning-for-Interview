@@ -118,6 +118,8 @@ https://www.simplilearn.com/tutorials/machine-learning-tutorial/bias-and-varianc
 
   Bias: Assumptions made by a model to make a function easier to learn. It is actually the error rate of the training data. When the error rate has a high value, we call it High Bias and when the error rate has a low value, we call it low Bias.
   Variance:  The error rate of the testing data is called variance. When the error rate has a high value, we call it High variance and when the error rate has a low value, we call it Low variance.
+  
+7.) 
 
 
 
