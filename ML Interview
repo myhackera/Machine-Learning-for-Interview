@@ -1,0 +1,48 @@
+1.) ML vs DL vs AI
+====================>>>>>
+
+AI
+---
+
+  AI is basically the study of training your machine(computers) to mimic a human brain and it’s thinking capabilities”. AI focuses on 3 major aspects(skills): learning, reasoning and self-correction to obtain maximum efficiency possible.
+  AI is the broader family consisting of ML and DL as it’s components.
+  AI is a computer algorithm which exhibits intelligence through decision making.
+  The aim is to basically increase chances of success and not accuracy.
+  Three broad categories/types Of AI are: Artificial Narrow Intelligence (ANI), Artificial General Intelligence (AGI) and Artificial Super Intelligence (ASI)
+  The efficiency Of AI is basically the efficiency provided by ML and DL respectively.
+  Examples of AI applications include: Google’s AI-Powered Predictions, Ridesharing Apps Like Uber and Lyft, Commercial Flights Use an AI Autopilot, etc.
+  
+ML
+---
+
+  The major aim of ML is to allow the systems to learn by themselves through the experience without any kind of human intervention or assistance.
+  ML is an application or subset of AI.
+  ML is an AI algorithm which allows system to learn from data.
+  The aim is to increase accuracy not caring much about the success ratio.
+  Three broad categories/types Of ML are: Supervised Learning, Unsupervised Learning and Reinforcement Learning.
+  Less efficient than DL as it can’t work for longer dimensions or higher amount of data.
+  Examples of ML applications include: Virtual Personal Assistants: Siri, Alexa, Google, etc., Email Spam and Malware Filtering.
+   
+DL
+---
+  Deep Learning is basically a sub-part of the broader family of Machine Learning which makes use of Neural Networks(similar to the neurons working in our brain) to mimic human brain-like behavior.
+  DL is the subset of ML
+  DL is a ML algorithm that uses deep(more than one layer) neural networks to analyze data and provide output accordingly.
+  It attains the highest rank in terms of accuracy when it is trained with large amount of data.
+  DL can be considered as neural networks with a large number of parameters layers lying in one of the four fundamental network architectures: Unsupervised Pre-trained Networks, Convolutional Neural Networks, Recurrent Neural Networks and Recursive Neural Networks.
+  More powerful than ML as it can easily work for larger sets of data.
+  Examples of DL applications include: Sentiment based news aggregation, Image analysis and caption generation, etc.
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
