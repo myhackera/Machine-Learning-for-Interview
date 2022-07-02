@@ -186,5 +186,21 @@ Overfitting
 
   The data points or vectors that are the closest to the hyperplane and which affect the position of the hyperplane are termed as Support Vector. Since these vectors support the hyperplane, hence called a Support vector.
 
+10.) Neural Network
+====================>>>
+
+  An Artificial Neural Network in the field of Artificial intelligence where it attempts to mimic the network of neurons makes up a human brain so that computers will have an option to understand things and make decisions in a human-like manner. The artificial neural network is designed by programming computers to behave simply like interconnected brain cells.
+  
+  Advantage of neural network
+  ---------------------------->>>
+  
+  > Parallel processing capability:
+  > Storing data on the entire network:
+  > Capability to work with incomplete knowledge:
+  > Having a memory distribution:
+
+
+
+
  
   
