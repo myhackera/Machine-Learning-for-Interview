@@ -236,6 +236,12 @@ Overfitting
   Correlation: It signifies that how strongly two variables are related to each other. Such as if one changes, the other variable also gets changed. The correlation value ranges from -1 to +1. Here, -1 occurs if variables are inversely proportional to each other, and +1 indicates that variables are directly proportional to each other.
   
   Orthogonal: It defines that variables are not correlated to each other, and hence the correlation between the pair of variables is zero.
+  
+13.) Difference Between K Means And KNN?
+========================================>>>
+
+  The big main difference between K means and KNN is that K means is an unsupervised learning clustering algorithm, while KNN is a supervised learning classification algorithm. K means creates classes out of unlabeled data while KNN classifies data to available classes from labeled data.
+  uploaded photo in repository see it ;;;
 
 
 
